@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shinra</title>
+    <link>https://shinra-corp.com/</link>
+    <description>Recent content on Shinra</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 29 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://shinra-corp.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>World Domination</title>
+      <link>https://shinra-corp.com/posts/world-domination/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shinra-corp.com/posts/world-domination/</guid>
+      <description> As define in Wikipedia World domination (also called global domination or world conquest) is a hypothetical power structure, either achieved or aspired to, in which a single political authority holds the power over all or virtually all the inhabitants of the planet Earth.
+Shinra Corp is a nice place to work if you believe in decentralized power of Ethereum to control the World! </description>
+    </item>
+    
+  </channel>
+</rss>
