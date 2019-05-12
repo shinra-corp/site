@@ -6,9 +6,37 @@
     <description>Recent content in Tags on Shinra</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Sun, 12 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://shinra-corp.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>erc20</title>
+      <link>https://shinra-corp.com/tags/erc20/</link>
+      <pubDate>Sun, 12 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shinra-corp.com/tags/erc20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ethereum</title>
+      <link>https://shinra-corp.com/tags/ethereum/</link>
+      <pubDate>Sun, 12 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shinra-corp.com/tags/ethereum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>solidity</title>
+      <link>https://shinra-corp.com/tags/solidity/</link>
+      <pubDate>Sun, 12 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shinra-corp.com/tags/solidity/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

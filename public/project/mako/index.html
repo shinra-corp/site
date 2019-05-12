@@ -4,7 +4,7 @@
          
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <title>Categories</title>
+        <title>Mako</title>
         
         <style>
 
@@ -61,9 +61,6 @@
 <script>$(document).on('click', function() { $('.collapse').collapse('hide'); })</script>
  <meta name="generator" content="Hugo 0.55.4" />
         
-        <link href="https://shinra-corp.com/categories/index.xml" rel="alternate" type="application/rss+xml" title="Shinra" />
-        <link href="https://shinra-corp.com/categories/index.xml" rel="feed" type="application/rss+xml" title="Shinra" />
-        
 
         
     </head>
@@ -83,7 +80,7 @@
 
                 <div class="navbar-header">
 
-                    <a class="navbar-brand visible-xs" href="#">Categories</a>
+                    <a class="navbar-brand visible-xs" href="#">Mako</a>
 
                     <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse">
                         <span class="icon-bar"></span>
@@ -126,13 +123,102 @@
 
 <main>
 
-    <h2>Categories</h2>
+    <div class="item">
+
+    
+    
+    
+
+    
+    
+
+    <h4><a href="/project/mako/">Mako</a></h4>
+    <h5>May 12, 2019</h5>
+    
+    <a href="https://shinra-corp.com/tags/solidity"><kbd class="item-tag">solidity</kbd></a>
+    
+    <a href="https://shinra-corp.com/tags/erc20"><kbd class="item-tag">erc20</kbd></a>
+    
+    <a href="https://shinra-corp.com/tags/ethereum"><kbd class="item-tag">ethereum</kbd></a>
+    
+
+</div>
+
+
+    <br> <div class="text-justify">
+
+<h1 id="mako-is-the-energy-for-modern-world">Mako is the energy for modern world!</h1>
+
+<h4 id="we-transform-mako-liquid-in-electricity-so-we-can-live-a-good-modern-life">We transform Mako liquid in electricity, so we can live a good modern life!</h4>
+
+<p><em>Some people say that exposure to Mako can poison a person, but that&rsquo;s not true, you can get same Mako as new form of free (not free) and cheap (not cheap) energy to the decentralized Corporation that we are!</em></p>
+
+<hr />
+
+<h3 id="how-can-you-collect-some-mako">How can you collect some Mako?</h3>
+
+<p>The idea is very simple, you use the contract method paymentProxy to bypass your Ethereum payments.</p>
+
+<h3 id="what-do-you-mean-by-bypass-it-s-safe">What do you mean by &ldquo;bypass&rdquo;? It&rsquo;s safe?</h3>
+
+<p>You can review the contract and the methods in question.
+Bypassing is using this contract to make a proxy payment. You send the ether and a target address, the script will take the sended ether and transfer to the target address.</p>
+
+<hr />
+
+<pre><code class="language-javascript">
+function proxyPayment(address payable _destination) external payable {
+        require(msg.value &gt; 0, 'Payments proxy only');
+        
+        uint256 amount = _mintAmount();
+        _destination.transfer(msg.value);
+        _mint(msg.sender, amount);
+        
+        emit PaymentProxy(msg.sender, _destination, msg.value, amount);
+}
+
+</code></pre>
+
+<hr />
+
+<h3 id="there-s-a-fee">There&rsquo;s a fee?</h3>
+
+<p>No. The only fee is the extra gas you have to pay and by the way, minted mako is half of that extra gas ;)</p>
+
+<h3 id="is-important-the-amount-of-sended-ether">Is important the amount of sended ether?</h3>
+
+<p>No, you can bypass 1wei, the generated Mako will be the same, always <sup>1</sup>&frasl;<sub>2</sub> of the gas cost.</p>
+
+<hr />
+
+<pre><code class="language-javascript">
+function _mintAmount() internal view returns (uint256) {
+       return (tx.gasprice * gasUnits / 2);
+}
+
+</code></pre>
+
+<hr />
+
+<h3 id="wait-this-is-only-a-normal-erc-20">Wait, this is only a normal ERC-20</h3>
+
+<p>Yes! You are right.</p>
+
+<h3 id="where-is-the-contract">Where is the contract?</h3>
+
+<p><a href="https://ropsten.etherscan.io/address/0x85965fc432f8366d6a6be2c0fea04ece27e48d0e" title="Mako">Mako in Ropsten</a></p>
+
+<h3 id="please-by-aware-this-is-a-learning-project-don-t-trust-the-code-review-it">Please by aware this is a learning project, don&rsquo;t trust the code, review it!</h3>
+</div>
+
+    
+    
+
+    
 
     
 
 </main>
-
-
 
         <footer>
 

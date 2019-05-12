@@ -16,7 +16,7 @@ _Some people say that exposure to Mako can poison a person, but that's not true,
 ---
 ### How can you collect some Mako?
 
-The idea is very simple, you use the contract [contract] to bypass your Ethereum payments.
+The idea is very simple, you use the contract method paymentProxy to bypass your Ethereum payments.
 
 ### What do you mean by "bypass"? It's safe?
 
