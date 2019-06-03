@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ethereum on Shinra</title>
-    <link>https://shinra-corp.com/tags/ethereum/</link>
-    <description>Recent content in ethereum on Shinra</description>
+    <title>multisign on Shinra</title>
+    <link>https://shinra-corp.com/tags/multisign/</link>
+    <description>Recent content in multisign on Shinra</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 03 Jun 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://shinra-corp.com/tags/ethereum/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://shinra-corp.com/tags/multisign/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,16 +20,6 @@
       <description> MultiSignature Wallet Controling our world domination plans with multi private keys.
 With this wallet you can send ether and tokens by signing a off-cahin message! Someone have to submit all signatures to the wallet contract do make the transaction.
 This is still a Work in Progress and are missing many tests! Please by aware this is a learning project, don&amp;rsquo;t trust the code, review it! </description>
-    </item>
-    
-    <item>
-      <title>Mako</title>
-      <link>https://shinra-corp.com/project/mako/</link>
-      <pubDate>Sun, 12 May 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://shinra-corp.com/project/mako/</guid>
-      <description>Mako is the energy for modern world! We transform Mako liquid in electricity, so we can live a good modern life! Some people say that exposure to Mako can poison a person, but that&amp;rsquo;s not true, you can get same Mako as new form of free (not free) and cheap (not cheap) energy to the decentralized Corporation that we are!
-How can you collect some Mako? The idea is very simple, you use the contract method paymentProxy to bypass your Ethereum payments.</description>
     </item>
     
   </channel>

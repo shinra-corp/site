@@ -6,10 +6,21 @@
     <description>Recent content in Projects on Shinra</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Jun 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://shinra-corp.com/project/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>MultiSign Wallet</title>
+      <link>https://shinra-corp.com/project/multisign-wallet/</link>
+      <pubDate>Mon, 03 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://shinra-corp.com/project/multisign-wallet/</guid>
+      <description> MultiSignature Wallet Controling our world domination plans with multi private keys.
+With this wallet you can send ether and tokens by signing a off-cahin message! Someone have to submit all signatures to the wallet contract do make the transaction.
+This is still a Work in Progress and are missing many tests! Please by aware this is a learning project, don&amp;rsquo;t trust the code, review it! </description>
+    </item>
     
     <item>
       <title>Mako</title>
