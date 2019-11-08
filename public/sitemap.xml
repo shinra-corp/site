@@ -1,6 +1,51 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://shinra-corp.com/tags/compound/</loc>
+    <lastmod>2019-11-08T17:46:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shinra-corp.com/tags/dai/</loc>
+    <lastmod>2019-11-08T17:46:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shinra-corp.com/tags/ethereum/</loc>
+    <lastmod>2019-11-08T17:46:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shinra-corp.com/project/interest-fund/</loc>
+    <lastmod>2019-11-08T17:46:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shinra-corp.com/project/</loc>
+    <lastmod>2019-11-08T17:46:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shinra-corp.com/</loc>
+    <lastmod>2019-11-08T17:46:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shinra-corp.com/tags/solidity/</loc>
+    <lastmod>2019-11-08T17:46:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shinra-corp.com/tags/</loc>
+    <lastmod>2019-11-08T17:46:11+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shinra-corp.com/tags/multisign/</loc>
+    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
+  </url>
   
   <url>
     <loc>https://shinra-corp.com/project/multisign-wallet/</loc>
@@ -8,39 +53,8 @@
   </url>
   
   <url>
-    <loc>https://shinra-corp.com/project/</loc>
-    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://shinra-corp.com/</loc>
-    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://shinra-corp.com/tags/</loc>
-    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://shinra-corp.com/tags/ethereum/</loc>
-    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://shinra-corp.com/tags/multisign/</loc>
-    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://shinra-corp.com/tags/solidity/</loc>
-    <lastmod>2019-06-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <loc>https://shinra-corp.com/tags/erc20/</loc>
+    <lastmod>2019-05-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -49,15 +63,8 @@
   </url>
   
   <url>
-    <loc>https://shinra-corp.com/tags/erc20/</loc>
-    <lastmod>2019-05-12T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://shinra-corp.com/posts/</loc>
     <lastmod>2019-04-29T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -67,7 +74,6 @@
   
   <url>
     <loc>https://shinra-corp.com/categories/</loc>
-    <priority>0</priority>
   </url>
   
 </urlset>

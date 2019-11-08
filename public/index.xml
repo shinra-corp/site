@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shinra</title>
@@ -6,10 +6,20 @@
     <description>Recent content on Shinra</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 03 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2019 17:46:11 +0000</lastBuildDate>
     
 	<atom:link href="https://shinra-corp.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Interest Fund</title>
+      <link>https://shinra-corp.com/project/interest-fund/</link>
+      <pubDate>Fri, 08 Nov 2019 17:46:11 +0000</pubDate>
+      
+      <guid>https://shinra-corp.com/project/interest-fund/</guid>
+      <description>Interest Fund Fund a Project with DAI Compound Interest. You don&amp;rsquo;t give away your money only the interest of that deposit. You can think that you are giving your time. A donor can start funding one project then change to another project at any time.
+You can start your week giving your interest to help some project you use, than withdraw and start funding a human rights project and by the weekend you give to DLX Meetup so we can create more fun examples.</description>
+    </item>
     
     <item>
       <title>MultiSign Wallet</title>
